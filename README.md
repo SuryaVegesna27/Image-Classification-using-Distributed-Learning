@@ -112,5 +112,4 @@ Future research may consider hybrid approaches or further tuning of each model t
 ### License
 
 ```
-This project is licensed under the @2024 Umar Mohammad
-```
+This project is licensed under the @2024 Surya Vegesna```
